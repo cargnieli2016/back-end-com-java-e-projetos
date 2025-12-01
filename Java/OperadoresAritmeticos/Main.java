@@ -14,5 +14,6 @@ public class Main {
         System.out.printf("%s - %s = %s\n", value1, value2, value1 - value2);
         System.out.printf("%s * %s = %s\n", value1, value2, value1 * value2);
         System.out.printf("%s / %s = %s\n", value1, value2, value1 / value2);
+        System.out.printf("%s %% %s = %s\n", value1, value2, value1 % value2);
     }
 }
