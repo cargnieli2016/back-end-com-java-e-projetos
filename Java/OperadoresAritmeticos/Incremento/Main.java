@@ -7,8 +7,8 @@ public class Main {
         System.out.println(10 + value);
 
         System.out.println("===== Pós incremento ===== ");
-        System.out.println(value++);
-        System.out.println(value);
+        System.out.println(10 + value++);
+        System.out.println(10 + value);
 
         System.out.println("============================");
 
